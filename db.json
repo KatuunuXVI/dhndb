@@ -5,6 +5,23 @@
       "title": "hello"
     }
   ],
+  "following": [
+    {
+      "username": "Moon Man",
+      "status": "Feelin' Racist",
+      "profile": "moonman.jpg"
+    },
+    {
+      "username": "Tardar \"Grumpy Cat\" Sauce",
+      "status": "Feelin' Dead",
+      "profile": "grumpy.jpg"
+    },
+    {
+      "username": "Edward Snowden",
+      "status": "Feelin' REDACTED",
+      "profile": "snowden.jpg"
+    }
+  ],
   "profile": {
     "name": "Patrick",
     "password": "pppp"
