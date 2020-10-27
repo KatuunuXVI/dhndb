@@ -5,7 +5,7 @@
       "title": "hello"
     }
   ],
-  "following": [
+  "users": [
     {
       "username": "Moon Man",
       "status": "Feelin' Racist",
@@ -22,8 +22,37 @@
       "profile": "snowden.jpg"
     }
   ],
-  "profile": {
-    "name": "Patrick",
-    "password": "pppp"
-  }
+  "profiles": [{
+    "name": "Rayman",
+    "password": "pppp",
+    "status": "",
+    "pic": "rayman.png",
+    "following": [
+      {
+        "username": "Globox",
+        "status": "Feelin' Slothful",
+        "profile": "globox.png"
+      },
+      {
+        "username": "Murphy",
+        "status": "Feelin' Like Billy West",
+        "profile": "murphy.png"
+      },
+      {
+        "username": "Barbara",
+        "status": "Feelin' Barbaric",
+        "profile": "barbara.png"
+      }
+    ],
+
+  },{
+    "name": "Leo",
+    "password": "llll"
+  },
+    {
+      "name": "Leo",
+      "password": "llll"
+    }
+
+]
 }
