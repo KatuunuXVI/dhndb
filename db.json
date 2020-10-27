@@ -22,7 +22,8 @@
       "profile": "snowden.jpg"
     }
   ],
-  "profiles": [{
+  "profiles": [
+    {
     "name": "Rayman",
     "password": "pppp",
     "status": "",
@@ -45,14 +46,6 @@
       }
     ],
 
-  },{
-    "name": "Leo",
-    "password": "llll"
-  },
-    {
-      "name": "Leo",
-      "password": "llll"
-    }
-
+  }
 ]
 }
