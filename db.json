@@ -5,46 +5,8 @@
       "title": "hello"
     }
   ],
-  "users": [
-    {
-      "username": "Moon Man",
-      "status": "Feelin' Racist",
-      "profile": "moonman.jpg"
-    },
-    {
-      "username": "Tardar \"Grumpy Cat\" Sauce",
-      "status": "Feelin' Dead",
-      "profile": "grumpy.jpg"
-    },
-    {
-      "username": "Edward Snowden",
-      "status": "Feelin' REDACTED",
-      "profile": "snowden.jpg"
-    }
-  ],
-  "profiles": [
-    {
-    "name": "Rayman",
-    "password": "pppp",
-    "status": "",
-    "pic": "rayman.png",
-    "following": [
-      {
-        "username": "Globox",
-        "status": "Feelin' Slothful",
-        "profile": "globox.png"
-      },
-      {
-        "username": "Murphy",
-        "status": "Feelin' Like Billy West",
-        "profile": "murphy.png"
-      },
-      {
-        "username": "Barbara",
-        "status": "Feelin' Barbaric",
-        "profile": "barbara.png"
-      }
-    ]
+  "profile": {
+    "name": "Patrick",
+    "password": "pppp"
   }
-]
 }
