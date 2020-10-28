@@ -9,8 +9,8 @@
     "name": "Patrick",
     "password": "pppp"
   },
-  "profiles": {
+  "profiles": [{
     "name": "Patrick",
     "password": "pppp"
-  }
+  }]
 }
