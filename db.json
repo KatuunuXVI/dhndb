@@ -10,7 +10,24 @@
     "password": "pppp"
   },
   "profiles": [{
-    "name": "Patrick",
-    "password": "pppp"
-  }]
+    "name": "Rayman",
+    "password": "pppp",
+    "status": "",
+    "pic": "rayman.png",
+    "following": [
+      {
+        "username": "Globox",
+        "status": "Feelin' Slothful",
+        "profile": "globox.png"
+      },
+      {
+        "username": "Murphy",
+        "status": "Feelin' Like Billy West",
+        "profile": "murphy.png"
+      },
+      {
+        "username": "Barbara",
+        "status": "Feelin' Barbaric",
+        "profile": "barbara.png"
+      }]
 }
