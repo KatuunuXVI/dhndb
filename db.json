@@ -5,25 +5,117 @@
       "title": "hello"
     }
   ],
-  "profile": [{
-    "name": "Rayman",
-    "password": "pppp",
-    "status": "",
-    "pic": "rayman.png",
-    "following": [
-      {
-        "username": "Globox",
-        "status": "Feelin' Slothful",
-        "profile": "globox.png"
-      },
-      {
-        "username": "Murphy",
-        "status": "Feelin' Like Billy West",
-        "profile": "murphy.png"
-      },
-      {
-        "username": "Barbara",
-        "status": "Feelin' Barbaric",
-        "profile": "barbara.png"
-      }]}]
+  "profiles": {
+    "Rayman": {
+      "display": "Rayman",
+      "password": "ancel",
+      "status": "Feelin' Goofy",
+      "pic": "rayman.png",
+      "following": [
+        "Globox",
+        "Murphy",
+        "Barbara"
+      ]
+    },
+    "Globox": {
+      "display": "Globox",
+      "password": "leguizamo",
+      "status": "Feelin' Goofy",
+      "pic": "globox.png",
+      "following": [
+        "Rayman",
+        "Murphy",
+        "Barbara"
+      ]
+    },
+    "Murphy": {
+      "display": "Murphy",
+      "password": "billywest",
+      "status": "Feelin' Fly",
+      "pic": "murphy.png",
+      "following": [
+        "Rayman",
+        "Globox",
+        "Barbara"
+      ]
+    },
+    "Barbara": {
+      "display": "Barbara",
+      "password": "dougrand",
+      "status": "Feelin' Barbaric",
+      "pic": "barbara.png",
+      "following": [
+        "Rayman",
+        "Globox",
+        "Murphy"
+      ]
+    },
+    "Dante": {
+      "name": "Dante",
+      "password": "itsuno",
+      "status": "Feelin' Crazy",
+      "pic": "dante.png",
+      "following": [
+        "Vergil",
+        "Nero",
+        "Lady"
+      ]
+    },
+    "Vergil": {
+      "name": "Vergil",
+      "password": "southworth",
+      "status": "Feelin' Motivated",
+      "pic": "vergil.png",
+      "following": [
+        "Dante",
+        "Nero",
+        "Lady"
+      ]
+    },
+    "Nero": {
+      "name": "Nero",
+      "password": "bosch",
+      "status": "Feelin' Like Dead Weight",
+      "pic": "nero.png",
+      "following": [
+        "Dante",
+        "Vergil",
+        "Lady"
+      ]
+    },
+    "Lady": {
+      "name": "Lady",
+      "password": "mary",
+      "status": "Feelin' Patricidal",
+      "pic": "ladydante.png",
+      "following": [
+        "Dante",
+        "Nero",
+        "Lady"
+      ]
+    },
+    "MacTonight": {
+      "name": "Moon Man",
+      "password": "mjccfrs",
+      "status": "Feelin' Racist",
+      "pic": "moonman.png",
+      "following": [
+        "Snowden"
+      ]
+    },
+    "Snowden": {
+      "name": "Moon Man",
+      "password": "mjccfrs",
+      "status": "Feelin' REDACTED",
+      "pic": "snowden.jpg",
+      "following": [
+        "Snowden"
+      ]
+    }
+
+  }
+  }
+    
+    
+  }
 }
