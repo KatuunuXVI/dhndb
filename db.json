@@ -1,14 +1,94 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "posts": {
+    "0": {
+      "author": "Globox",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "date": "05/23/1778",
+      "body": "quia et suscipit nsuscipit recusandae consequuntur expedita et cum nreprehenderit molestiae ut ut quas totam nnostrum rerum est autem sunt rem eveniet architecto",
+      "image": "dedede.png",
+      "comments": []
+    },
+    "1": {
+      "author": "Barbara",
+      "title": "qui est esse",
+      "date": "02/15/1856",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+      "image": "",
+      "comments": []
+    },
+    "2": {
+      "author": "Dante",
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "date": "04/24/1923",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+      "image": "",
+      "comments": []
+    },
+    "3": {
+      "author": "JohnHarnet",
+      "title": "eum et est occaecati",
+      "date": "07/24/1945",
+      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+      "image": "",
+      "comments": []
+    },
+    "4": {
+      "author": "Murphy",
+      "title": "nesciunt quas odio",
+      "date": "07/24/1945",
+      "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
+      "image": "",
+      "comments": []
+    },
+    "5": {
+      "author": "Dante",
+      "title": "Inferno",
+      "date": "08/24/1988",
+      "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae",
+      "image": "",
+      "comments": []
+    },
+    "6": {
+      "author": "Kuchinashi",
+      "title": "magnam facilis autem",
+      "date": "06/30/1995",
+      "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas",
+      "image": "",
+      "comments": []
+    },
+    "7": {
+      "author": "Vergil",
+      "title": "dolorem dolore est ipsam",
+      "date": "08/24/2000",
+      "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae",
+      "image": "",
+      "comments": []
+    },
+    "8": {
+      "author": "Lady",
+      "title": "nesciunt iure omnis dolorem tempora et accusantium",
+      "date": "03/14/2003",
+      "body": "dignissimosconsectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas",
+      "image": "1033_10.gif",
+      "comments": []
+    },
+    "9": {
+      "author": "Globox",
+      "title": "optio molestias id quia eum",
+      "date": "04/12/2018",
+      "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error",
+      "image": "1033_10.gif",
+      "comments": []
     }
-  ],
+  },
   "profiles": {
     "Rayman": {
       "display": "Rayman",
       "password": "ancel",
+      "email": "LimblessLurker@ubisoft.com",
+      "dob": "09/01/1995",
+      "number": "181-251-3114",
+      "zip":  16191,
       "status": "Feelin' Goofy",
       "pic": "rayman.png",
       "following": [
@@ -20,6 +100,10 @@
     "Globox": {
       "display": "Globox",
       "password": "leguizamo",
+      "email": "FlimsyFrog@ubisoft.com",
+      "dob": "10/29/1999",
+      "number": "181-251-3114",
+      "zip": 16191,
       "status": "Feelin' Goofy",
       "pic": "globox.png",
       "following": [
@@ -31,6 +115,10 @@
     "Murphy": {
       "display": "Murphy",
       "password": "billywest",
+      "email": "FroglikeFly@ubisoft.com",
+      "dob": "10/29/1999",
+      "number": "181-251-3114",
+      "zip": 16191,
       "status": "Feelin' Fly",
       "pic": "murphy.png",
       "following": [
@@ -42,6 +130,10 @@
     "Barbara": {
       "display": "Barbara",
       "password": "dougrand",
+      "email": "BBarbarian@ubisoft.com",
+      "dob": "10/29/1999",
+      "number": "181-251-3114",
+      "zip": 16191,
       "status": "Feelin' Barbaric",
       "pic": "barbara.png",
       "following": [
@@ -53,6 +145,10 @@
     "Dante": {
       "name": "Dante",
       "password": "itsuno",
+      "email": "SonofSparda@capcom.com",
+      "dob": "08/23/2001",
+      "number": "669-463-0999",
+      "zip": 16192,
       "status": "Feelin' Crazy",
       "pic": "dante.png",
       "following": [
@@ -64,6 +160,10 @@
     "Vergil": {
       "name": "Vergil",
       "password": "southworth",
+      "email": "needmorepowuh@capcom.com",
+      "dob": "08/23/2001",
+      "number": "669-463-0999",
+      "zip": 16192,
       "status": "Feelin' Motivated",
       "pic": "vergil.png",
       "following": [
@@ -75,6 +175,10 @@
     "Nero": {
       "name": "Nero",
       "password": "bosch",
+      "email": "muhkyrie@capcom.com",
+      "dob": "01/31/2008",
+      "number": "669-463-0999",
+      "zip": 16193,
       "status": "Feelin' Like Dead Weight",
       "pic": "nero.png",
       "following": [
@@ -86,6 +190,10 @@
     "Lady": {
       "name": "Lady",
       "password": "mary",
+      "email": "myparentsaredead@capcom.com",
+      "dob": "02/17/2005",
+      "number": "669-463-0999",
+      "zip": 16192,
       "status": "Feelin' Patricidal",
       "pic": "ladydante.png",
       "following": [
@@ -96,26 +204,90 @@
     },
     "MacTonight": {
       "name": "Moon Man",
-      "password": "mjccfrs",
+      "password": "behr",
+      "email": "dougjones@kkk.com",
+      "dob": "02/17/2005",
+      "number": "669-463-0999",
+      "zip": 60607,
       "status": "Feelin' Racist",
       "pic": "moonman.png",
       "following": [
-        "Snowden"
+        "Snowden",
+        "Ruckus",
+        "Momiji"
       ]
     },
     "Snowden": {
-      "name": "Moon Man",
+      "name": "Edward Snowden",
       "password": "mjccfrs",
+      "email": "dougjones@kkk.com",
+      "dob": "06/21/1983",
+      "number": "182-119-1991",
+      "zip": 10100,
       "status": "Feelin' REDACTED",
       "pic": "snowden.jpg",
       "following": [
-        "Snowden"
+        "Moon Man",
+        "Kuchinashi"
+      ]
+    },
+    "Kuchinashi": {
+      "name": "Kuchinashi",
+      "password": "chihara",
+      "email": "bbgsquad@kami.com",
+      "dob": "07/02/2003",
+      "number": "145-541-2519",
+      "zip": 14935,
+      "status": "...",
+      "pic": "kuchinashi.png",
+      "following": [
+        "momiji"
+      ]
+    },
+    "Ruckus": {
+      "name": "Uncle Ruckus",
+      "password": "gary",
+      "email": "norelation@woodcrest.com",
+      "dob": "03/14/1966",
+      "number": "141-518-5121",
+      "zip": 14935,
+      "status": "Feelin' White",
+      "pic": "ruckus.png",
+      "following": [
+        "MacTonight"
+      ]
+    },
+    "Momiji": {
+      "name": "Momiji Binboda",
+      "password": "uchiyama",
+      "email": "godofpoverty@bb.com",
+      "dob": "07/05/2012",
+      "number": "715-154-1221",
+      "zip": 14935,
+      "status": "Feelin' Unlucky",
+      "pic": "momiji.png",
+      "following": [
+        "Nero",
+        "MacTonight",
+        "Kuchinashi"
+      ]
+    },
+    "JohnHarnet": {
+      "name": "Destroy Man",
+      "password": "keaton",
+      "email": "godofpoverty@bb.com",
+      "dob": "07/05/2012",
+      "number": "636-363-6363",
+      "zip": 14935,
+      "status": "Feelin' Like Killin'",
+      "pic": "Destroyman.jpg",
+      "following": [
+        "Momiji",
+        "Kuchinashi",
+        "Lady"
       ]
     }
-
-  }
-  }
-    
-    
   }
 }
+    
+ 
