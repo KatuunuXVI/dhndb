@@ -1,6 +1,7 @@
 {
-  "posts": {
-    "0": {
+  "posts": [
+    
+    {
       "author": "Globox",
       "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
       "date": "05/23/1778",
@@ -8,7 +9,8 @@
       "image": "dedede.png",
       "comments": []
     },
-    "1": {
+    
+    {
       "author": "Barbara",
       "title": "qui est esse",
       "date": "02/15/1856",
@@ -16,7 +18,7 @@
       "image": "",
       "comments": []
     },
-    "2": {
+    {
       "author": "Dante",
       "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
       "date": "04/24/1923",
@@ -24,7 +26,7 @@
       "image": "",
       "comments": []
     },
-    "3": {
+    {
       "author": "JohnHarnet",
       "title": "eum et est occaecati",
       "date": "07/24/1945",
@@ -32,7 +34,7 @@
       "image": "",
       "comments": []
     },
-    "4": {
+    {
       "author": "Murphy",
       "title": "nesciunt quas odio",
       "date": "07/24/1945",
@@ -40,7 +42,7 @@
       "image": "",
       "comments": []
     },
-    "5": {
+    {
       "author": "Dante",
       "title": "Inferno",
       "date": "08/24/1988",
@@ -48,7 +50,7 @@
       "image": "",
       "comments": []
     },
-    "6": {
+    {
       "author": "Kuchinashi",
       "title": "magnam facilis autem",
       "date": "06/30/1995",
@@ -56,7 +58,7 @@
       "image": "",
       "comments": []
     },
-    "7": {
+    {
       "author": "Vergil",
       "title": "dolorem dolore est ipsam",
       "date": "08/24/2000",
@@ -64,7 +66,7 @@
       "image": "",
       "comments": []
     },
-    "8": {
+    {
       "author": "Lady",
       "title": "nesciunt iure omnis dolorem tempora et accusantium",
       "date": "03/14/2003",
@@ -72,7 +74,7 @@
       "image": "1033_10.gif",
       "comments": []
     },
-    "9": {
+    {
       "author": "Globox",
       "title": "optio molestias id quia eum",
       "date": "04/12/2018",
@@ -80,7 +82,7 @@
       "image": "1033_10.gif",
       "comments": []
     }
-  },
+  ],
   "profiles": {
     "Rayman": {
       "name": "Rayman",
