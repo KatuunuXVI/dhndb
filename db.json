@@ -83,7 +83,7 @@
   },
   "profiles": {
     "Rayman": {
-      "display": "Rayman",
+      "name": "Rayman",
       "password": "ancel",
       "email": "LimblessLurker@ubisoft.com",
       "dob": "09/01/1995",
@@ -98,7 +98,7 @@
       ]
     },
     "Globox": {
-      "display": "Globox",
+      "name": "Globox",
       "password": "leguizamo",
       "email": "FlimsyFrog@ubisoft.com",
       "dob": "10/29/1999",
@@ -113,7 +113,7 @@
       ]
     },
     "Murphy": {
-      "display": "Murphy",
+      "name": "Murphy",
       "password": "billywest",
       "email": "FroglikeFly@ubisoft.com",
       "dob": "10/29/1999",
@@ -128,7 +128,7 @@
       ]
     },
     "Barbara": {
-      "display": "Barbara",
+      "name": "Barbara",
       "password": "dougrand",
       "email": "BBarbarian@ubisoft.com",
       "dob": "10/29/1999",
@@ -239,9 +239,9 @@
       "number": "145-541-2519",
       "zip": 14935,
       "status": "...",
-      "pic": "kuchinashi.png",
+      "pic": "kuchinashi.jpg",
       "following": [
-        "momiji"
+        "Momiji"
       ]
     },
     "Ruckus": {
@@ -265,7 +265,7 @@
       "number": "715-154-1221",
       "zip": 14935,
       "status": "Feelin' Unlucky",
-      "pic": "momiji.png",
+      "pic": "momiji.jpg",
       "following": [
         "Nero",
         "MacTonight",
