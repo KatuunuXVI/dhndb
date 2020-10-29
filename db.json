@@ -93,7 +93,7 @@
       "pic": "rayman.png",
       "following": [
         "Globox",
-        "Murphy",
+        "Murfy",
         "Barbara"
       ]
     },
@@ -108,19 +108,19 @@
       "pic": "globox.png",
       "following": [
         "Rayman",
-        "Murphy",
+        "Murfy",
         "Barbara"
       ]
     },
-    "Murphy": {
-      "name": "Murphy",
+    "Murfy": {
+      "name": "Murfy",
       "password": "billywest",
       "email": "FroglikeFly@ubisoft.com",
       "dob": "10/29/1999",
       "number": "181-251-3114",
       "zip": 16191,
       "status": "Feelin' Fly",
-      "pic": "murphy.png",
+      "pic": "murfy.png",
       "following": [
         "Rayman",
         "Globox",
@@ -139,7 +139,7 @@
       "following": [
         "Rayman",
         "Globox",
-        "Murphy"
+        "Murfy"
       ]
     },
     "Dante": {
